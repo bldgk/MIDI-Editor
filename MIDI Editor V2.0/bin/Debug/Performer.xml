@@ -1,0 +1,29 @@
+﻿<ArrayOfKeyValueOfguidPerformertcw4xmnf xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+  <KeyValueOfguidPerformertcw4xmnf>
+    <Key>871c30f5-0274-41f9-83ec-595eaa7f4e93</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>871c30f5-0274-41f9-83ec-595eaa7f4e93</d3p1:ID>
+      <d3p1:Date_foundation>2014-05-28T10:18:00.153064+03:00</d3p1:Date_foundation>
+      <d3p1:ImageName>C:\Users\Super_Zhmel\Pictures\IMG_20140420_140352.jpg</d3p1:ImageName>
+      <d3p1:Name>ewqrw</d3p1:Name>
+    </Value>
+  </KeyValueOfguidPerformertcw4xmnf>
+  <KeyValueOfguidPerformertcw4xmnf>
+    <Key>d6bd1929-fd67-4e83-8d8e-828142c0a7b8</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>d6bd1929-fd67-4e83-8d8e-828142c0a7b8</d3p1:ID>
+      <d3p1:Date_foundation>2014-05-28T13:52:52.8144164+03:00</d3p1:Date_foundation>
+      <d3p1:ImageName>C:\Users\Super_Zhmel\Pictures\IMG_20140420_140320.jpg</d3p1:ImageName>
+      <d3p1:Name>scorpions</d3p1:Name>
+    </Value>
+  </KeyValueOfguidPerformertcw4xmnf>
+  <KeyValueOfguidPerformertcw4xmnf>
+    <Key>ff0b3c71-597c-4532-a328-39b106e547bd</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>ff0b3c71-597c-4532-a328-39b106e547bd</d3p1:ID>
+      <d3p1:Date_foundation>2014-05-28T13:53:04.174319+03:00</d3p1:Date_foundation>
+      <d3p1:ImageName>C:\Users\Super_Zhmel\Pictures\IMG_20140420_140358.jpg</d3p1:ImageName>
+      <d3p1:Name>Metallica</d3p1:Name>
+    </Value>
+  </KeyValueOfguidPerformertcw4xmnf>
+</ArrayOfKeyValueOfguidPerformertcw4xmnf>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIDI Editor", "MIDI Editor V2.0\MIDI Editor.csproj", "{454EEBAB-B7F2-4B52-A303-6C881AE50B8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIDI Library", "MIDI Library\MIDI Library.csproj", "{02DC6953-2CFC-4FEB-B7C3-303F29359FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454EEBAB-B7F2-4B52-A303-6C881AE50B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454EEBAB-B7F2-4B52-A303-6C881AE50B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454EEBAB-B7F2-4B52-A303-6C881AE50B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454EEBAB-B7F2-4B52-A303-6C881AE50B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DC6953-2CFC-4FEB-B7C3-303F29359FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DC6953-2CFC-4FEB-B7C3-303F29359FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DC6953-2CFC-4FEB-B7C3-303F29359FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DC6953-2CFC-4FEB-B7C3-303F29359FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+﻿<ArrayOfKeyValueOfguidCompositiontcw4xmnf xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+  <KeyValueOfguidCompositiontcw4xmnf>
+    <Key>b4811b5d-f5ea-49c9-b31b-1bed35919fc8</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>b4811b5d-f5ea-49c9-b31b-1bed35919fc8</d3p1:ID>
+      <d3p1:Album>Love At the first Sting</d3p1:Album>
+      <d3p1:Date>0001-01-01T00:00:00</d3p1:Date>
+      <d3p1:DocName>Still loving you</d3p1:DocName>
+      <d3p1:Imagename>C:\Users\Super_Zhmel\Pictures\4dzJY48TjrY.jpg</d3p1:Imagename>
+      <d3p1:Name>Still loving you</d3p1:Name>
+    </Value>
+  </KeyValueOfguidCompositiontcw4xmnf>
+  <KeyValueOfguidCompositiontcw4xmnf>
+    <Key>d471de2c-ee99-4e07-8ba3-4dcd9a02846b</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>d471de2c-ee99-4e07-8ba3-4dcd9a02846b</d3p1:ID>
+      <d3p1:Album>Metallcia</d3p1:Album>
+      <d3p1:Date>0001-01-01T00:00:00</d3p1:Date>
+      <d3p1:DocName>Nothing else metters</d3p1:DocName>
+      <d3p1:Imagename>C:\Users\Super_Zhmel\Pictures\ElSFZec2QOA (1).jpg</d3p1:Imagename>
+      <d3p1:Name>Nothing else metters</d3p1:Name>
+    </Value>
+  </KeyValueOfguidCompositiontcw4xmnf>
+  <KeyValueOfguidCompositiontcw4xmnf>
+    <Key>695d376d-81a1-4a9c-bab3-23c6902837da</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>695d376d-81a1-4a9c-bab3-23c6902837da</d3p1:ID>
+      <d3p1:Album>asdf</d3p1:Album>
+      <d3p1:Date>0001-01-01T00:00:00</d3p1:Date>
+      <d3p1:DocName>adsf</d3p1:DocName>
+      <d3p1:Imagename>C:\Users\Super_Zhmel\Pictures\IMG_20140420_140320.jpg</d3p1:Imagename>
+      <d3p1:Name>adsf</d3p1:Name>
+    </Value>
+  </KeyValueOfguidCompositiontcw4xmnf>
+</ArrayOfKeyValueOfguidCompositiontcw4xmnf>

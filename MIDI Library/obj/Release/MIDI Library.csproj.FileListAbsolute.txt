@@ -1,0 +1,15 @@
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Library\bin\Release\MIDI Library.dll
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Library\bin\Release\MIDI Library.pdb
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Library\obj\Release\MIDI Library.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Library\obj\Release\MIDI Library.dll
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Library\obj\Release\MIDI Library.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Library\bin\Release\MIDI Library.dll
+F:\kusova\MIDI Editor V2.0\MIDI Library\bin\Release\MIDI Library.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Library\obj\Release\MIDI Library.csprojResolveAssemblyReference.cache
+F:\kusova\MIDI Editor V2.0\MIDI Library\obj\Release\MIDI Library.dll
+F:\kusova\MIDI Editor V2.0\MIDI Library\obj\Release\MIDI Library.pdb
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Library\bin\Release\MIDI Library.dll
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Library\bin\Release\MIDI Library.pdb
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Library\obj\Release\MIDI Library.csprojResolveAssemblyReference.cache
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Library\obj\Release\MIDI Library.dll
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Library\obj\Release\MIDI Library.pdb

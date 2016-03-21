@@ -1,0 +1,187 @@
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Debug\MIDI Data.sdf
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Debug\MIDI Library.dll
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Debug\MIDI Library.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI Editor.csprojResolveAssemblyReference.cache
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.DeleteTrack.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAbout.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddComp.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddPerformer.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChoicecs.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChooseComp.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditComposition.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditPerformer.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FNoteEdit.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormCreateTrack.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormMain.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FPerformers.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FSongs.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.Properties.Resources.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.GenerateResource.Cache
+F:\kusova\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+F:\kusova\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+F:\kusova\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+F:\kusova\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+I:\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+I:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+I:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+I:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+H:\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+H:\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Data.sdf
+H:\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe
+H:\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.pdb
+H:\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.dll
+H:\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.pdb
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csprojResolveAssemblyReference.cache
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.DeleteTrack.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAbout.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddComp.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddPerformer.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChoicecs.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChooseComp.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditComposition.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditPerformer.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FNoteEdit.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormCreateTrack.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormMain.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FPerformers.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FSongs.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.Properties.Resources.resources
+H:\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.GenerateResource.Cache
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Data.sdf
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.pdb
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.dll
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.pdb
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csprojResolveAssemblyReference.cache
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.DeleteTrack.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAbout.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddComp.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddPerformer.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChoicecs.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChooseComp.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditComposition.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditPerformer.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FNoteEdit.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormCreateTrack.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormMain.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FPerformers.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FSongs.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.Properties.Resources.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.GenerateResource.Cache
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Data.sdf
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.pdb
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.dll
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.pdb
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csprojResolveAssemblyReference.cache
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.DeleteTrack.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAbout.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddComp.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddPerformer.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChoicecs.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChooseComp.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditComposition.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditPerformer.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FNoteEdit.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormCreateTrack.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormMain.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FPerformers.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FSongs.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.Properties.Resources.resources
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.GenerateResource.Cache
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Data.sdf
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.pdb
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.dll
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.pdb
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csprojResolveAssemblyReference.cache
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.DeleteTrack.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAbout.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddComp.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddPerformer.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChoicecs.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChooseComp.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditComposition.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditPerformer.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FNoteEdit.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormCreateTrack.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormMain.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FPerformers.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FSongs.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.Properties.Resources.resources
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.GenerateResource.Cache
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Data.sdf
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.pdb
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.dll
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.pdb
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.DeleteTrack.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAbout.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddComp.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddPerformer.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChoicecs.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChooseComp.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditComposition.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditPerformer.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FNoteEdit.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormCreateTrack.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormMain.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FPerformers.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FSongs.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.Properties.Resources.resources
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.GenerateResource.Cache
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Data.sdf
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.pdb
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.dll
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.pdb
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csprojResolveAssemblyReference.cache
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.DeleteTrack.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAbout.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddComp.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddPerformer.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChoicecs.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChooseComp.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditComposition.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditPerformer.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FNoteEdit.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormCreateTrack.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormMain.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FPerformers.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FSongs.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.Properties.Resources.resources
+W:\Projects\Visual Studio\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.GenerateResource.Cache
+W:\OneDrive\Work\Projects\Visual Studio\CourseWork\1\MIDI Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+W:\OneDrive\Work\Projects\Visual Studio\CourseWork\1\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+W:\OneDrive\Work\Projects\Visual Studio\CourseWork\1\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+W:\OneDrive\Work\Projects\Visual Studio\CourseWork\1\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb

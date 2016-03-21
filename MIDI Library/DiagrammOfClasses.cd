@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MIDI_Library.AcousticGuitar" Collapsed="true">
+    <Position X="25.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAEBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AcousticGuitar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Base&lt;T&gt;" Collapsed="true">
+    <Position X="34" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.BassGuitar" Collapsed="true">
+    <Position X="27.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BassGuitar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Composition" Collapsed="true">
+    <Position X="46" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAEAAAAgAQAAAAIDAABAQAACAAAAAA=</HashCode>
+      <FileName>Composition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.CompositionPerformer" Collapsed="true">
+    <Position X="48.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAACAAAIAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CompositionPerformer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Drums" Collapsed="true">
+    <Position X="32" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAABAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Drums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.ElectroGuitar" Collapsed="true">
+    <Position X="29.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ElectroGuitar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.FileNote" Collapsed="true">
+    <Position X="51.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAg=</HashCode>
+      <FileName>FileNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Guitar" Collapsed="true">
+    <Position X="27.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Guitar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Instrument" Collapsed="true">
+    <Position X="30.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAEAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Instrument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Line" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAgAAIAAAgAAAAAAAgAACAAAgAAAAYAA=</HashCode>
+      <FileName>Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineEighth" Collapsed="true">
+    <Position X="24.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineEighth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineEigthNinth" Collapsed="true">
+    <Position X="25.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineEigthNinth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineFifth" Collapsed="true">
+    <Position X="27" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineFifth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineFifthSixth" Collapsed="true">
+    <Position X="24.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineFifthSixth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineFirst" Collapsed="true">
+    <Position X="22.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineFirst.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineFirstExt" Collapsed="true">
+    <Position X="29.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineFirstExt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineFirstExtFirst" Collapsed="true">
+    <Position X="24.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineFirstExtFirst.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineFirstSecond" Collapsed="true">
+    <Position X="29.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineFirstSecond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineFourth" Collapsed="true">
+    <Position X="27" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineFourth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineFourthFifth" Collapsed="true">
+    <Position X="22.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineFourthFifth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LinePause" Collapsed="true">
+    <Position X="29.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAACEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LinePause.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineSecond" Collapsed="true">
+    <Position X="27" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineSecond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineSecondExt" Collapsed="true">
+    <Position X="24.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineSecondExt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineSecondExtFirstExt" Collapsed="true">
+    <Position X="22.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineSecondExtFirstExt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineSecondThird" Collapsed="true">
+    <Position X="27" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineSecondThird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineSeventh" Collapsed="true">
+    <Position X="22.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineSeventh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineSeventhEighth" Collapsed="true">
+    <Position X="29.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineSeventhEighth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineSixth" Collapsed="true">
+    <Position X="24.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineSixth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineSixthSeventh" Collapsed="true">
+    <Position X="22.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineSixthSeventh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineThird" Collapsed="true">
+    <Position X="29.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineThird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.LineThirdFourth" Collapsed="true">
+    <Position X="27" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgCEAAAAACAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>LineThirdFourth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Measure" Collapsed="true">
+    <Position X="53.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Measure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Note" Collapsed="true">
+    <Position X="35.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAgAEAAAgAAQCAAQAAQAAAYAAAAAA4Ag=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.NoteEighth" Collapsed="true">
+    <Position X="28" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgAEAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoteEighth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.NoteHalf" Collapsed="true">
+    <Position X="32.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgAEAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoteHalf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.NoteQuarter" Collapsed="true">
+    <Position X="37" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgAEAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoteQuarter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.NoteSixteenth" Collapsed="true">
+    <Position X="41.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgAEAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoteSixteenth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.NoteWhole" Collapsed="true">
+    <Position X="43.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgAEAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoteWhole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Page" Collapsed="true">
+    <Position X="49.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAACAAAQAAAACAAAAAAAA=</HashCode>
+      <FileName>Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.PauseEighth" Collapsed="true">
+    <Position X="46" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PauseEighth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.PauseHalf" Collapsed="true">
+    <Position X="35.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PauseHalf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.PauseQuarter" Collapsed="true">
+    <Position X="30.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PauseQuarter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.PauseSixteenth" Collapsed="true">
+    <Position X="34.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PauseSixteenth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.PauseWhole" Collapsed="true">
+    <Position X="39.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PauseWhole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Performer" Collapsed="true">
+    <Position X="51.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAEQAAQAAQAAAAABAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Performer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Piano" Collapsed="true">
+    <Position X="34.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAABAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Piano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Position" Collapsed="true">
+    <Position X="51.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAgAAAAAAAEAAAAAAAAgAAAAAAAAAYAA=</HashCode>
+      <FileName>Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Saxophone" Collapsed="true">
+    <Position X="36.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAABAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Saxophone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Song" Collapsed="true">
+    <Position X="53.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Song.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Staff" Collapsed="true">
+    <Position X="49.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EADAAAAQAgAAAkACCAAAAAAACBAAEAMABABAAAAAAAA=</HashCode>
+      <FileName>Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIDI_Library.Track" Collapsed="true">
+    <Position X="44.75" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAPgAAAAAAAAigAEAAAAAAAACAAAAAACAQAAAABAAAQ=</HashCode>
+      <FileName>Track.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MIDI_Library.TypeInstrument" Collapsed="true">
+    <Position X="49.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAAAABAAAAQAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Instrument.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MIDI_Library.NameLine" Collapsed="true">
+    <Position X="51.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgEgAAAAAQAUEAAAQAABIAIAAJAAAAQAAAAAIEAYQ=</HashCode>
+      <FileName>Line.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MIDI_Library.NoteName" Collapsed="true">
+    <Position X="53.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvkAAAAA=</HashCode>
+      <FileName>Line.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MIDI_Library.NoteOctave" Collapsed="true">
+    <Position X="49.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAQAAAAAAAAJAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Line.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MIDI_Library.Type" Collapsed="true">
+    <Position X="53.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAJAAAAAEBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MIDI_Library.Octave" Collapsed="true">
+    <Position X="51.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAQAAAAAAAAJAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MIDI_Library.Name" Collapsed="true">
+    <Position X="49.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvkAAAAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

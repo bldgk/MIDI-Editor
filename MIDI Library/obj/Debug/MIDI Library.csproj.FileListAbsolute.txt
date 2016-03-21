@@ -1,0 +1,38 @@
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Library\bin\Debug\MIDI Library.dll
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Library\bin\Debug\MIDI Library.pdb
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Library\obj\Debug\MIDI Library.dll
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Library\obj\Debug\MIDI Library.pdb
+E:\Dropbox\MIDI Editor V2.0\MIDI Library\bin\Debug\MIDI Library.dll
+E:\Dropbox\MIDI Editor V2.0\MIDI Library\bin\Debug\MIDI Library.pdb
+E:\Dropbox\MIDI Editor V2.0\MIDI Library\obj\Debug\MIDI Library.csprojResolveAssemblyReference.cache
+E:\Dropbox\MIDI Editor V2.0\MIDI Library\obj\Debug\MIDI Library.dll
+E:\Dropbox\MIDI Editor V2.0\MIDI Library\obj\Debug\MIDI Library.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Library\bin\Debug\MIDI Library.dll
+F:\kusova\MIDI Editor V2.0\MIDI Library\bin\Debug\MIDI Library.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Library\obj\Debug\MIDI Library.dll
+F:\kusova\MIDI Editor V2.0\MIDI Library\obj\Debug\MIDI Library.pdb
+H:\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.dll
+H:\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.pdb
+H:\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.csprojResolveAssemblyReference.cache
+H:\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.dll
+H:\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.pdb
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.dll
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.pdb
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.csprojResolveAssemblyReference.cache
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.dll
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.pdb
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.dll
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.pdb
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.csprojResolveAssemblyReference.cache
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.dll
+G:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.pdb
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.dll
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.pdb
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.dll
+E:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.pdb
+W:\Projects\Visual Studio\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.dll
+W:\Projects\Visual Studio\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.pdb
+W:\Projects\Visual Studio\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.csprojResolveAssemblyReference.cache
+W:\Projects\Visual Studio\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.dll
+W:\Projects\Visual Studio\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.pdb

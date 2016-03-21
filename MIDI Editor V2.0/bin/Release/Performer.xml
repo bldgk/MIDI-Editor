@@ -1,0 +1,20 @@
+﻿<ArrayOfKeyValueOfguidPerformertcw4xmnf xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+  <KeyValueOfguidPerformertcw4xmnf>
+    <Key>5e5f671c-1f39-4518-8ef0-92a13f58ec8e</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>5e5f671c-1f39-4518-8ef0-92a13f58ec8e</d3p1:ID>
+      <d3p1:Date_foundation>2014-05-29T13:12:22.3513994+03:00</d3p1:Date_foundation>
+      <d3p1:ImageName>F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Debug\src\Composition\Metallica_-_Nothing_Else_Matters_cover.jpg</d3p1:ImageName>
+      <d3p1:Name>Metallica</d3p1:Name>
+    </Value>
+  </KeyValueOfguidPerformertcw4xmnf>
+  <KeyValueOfguidPerformertcw4xmnf>
+    <Key>57193534-75a4-43dc-a45c-0b6efbe1dc01</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>57193534-75a4-43dc-a45c-0b6efbe1dc01</d3p1:ID>
+      <d3p1:Date_foundation>2014-06-14T21:21:21.4834516+03:00</d3p1:Date_foundation>
+      <d3p1:ImageName>C:\Users\Super_Zhmel\Pictures\IMG_20140420_142907.jpg</d3p1:ImageName>
+      <d3p1:Name>swer</d3p1:Name>
+    </Value>
+  </KeyValueOfguidPerformertcw4xmnf>
+</ArrayOfKeyValueOfguidPerformertcw4xmnf>

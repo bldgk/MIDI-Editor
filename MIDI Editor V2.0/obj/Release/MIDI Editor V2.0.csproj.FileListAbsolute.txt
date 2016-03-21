@@ -1,0 +1,44 @@
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.exe.config
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Data.sdf
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.exe
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.pdb
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Library.dll
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Library.pdb
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FAddComp.resources
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FAddPerformer.resources
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FChoicecs.resources
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FEditComposition.resources
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FEditPerformer.resources
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FormMain.resources
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FPerformers.resources
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FSongs.resources
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.Properties.Resources.resources
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.csproj.GenerateResource.Cache
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.exe
+C:\Users\Kirill\Dropbox\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.exe.config
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.csproj.ResolveComReference.cache
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.exe
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Data.sdf
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.exe
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Library.dll
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\bin\Release\MIDI Library.pdb
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.csprojResolveAssemblyReference.cache
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.DeleteTrack.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FAbout.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FAddComp.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FAddPerformer.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FChoicecs.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FChooseComp.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FEditComposition.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FEditPerformer.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FNoteEdit.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FormCreateTrack.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FormMain.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FPerformers.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FSongs.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.Properties.Resources.resources
+F:\kusova\MIDI Editor V2.0\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.csproj.GenerateResource.Cache

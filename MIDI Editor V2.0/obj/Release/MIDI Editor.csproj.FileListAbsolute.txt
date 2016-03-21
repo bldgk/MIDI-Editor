@@ -1,0 +1,29 @@
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.exe.config
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI Editor.csproj.ResolveComReference.cache
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.exe
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.pdb
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Release\MIDI Data.sdf
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.exe
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.pdb
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Release\MIDI Library.dll
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\bin\Release\MIDI Library.pdb
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI Editor.csprojResolveAssemblyReference.cache
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.DeleteTrack.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FAbout.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FAddComp.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FAddPerformer.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FChoicecs.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FChooseComp.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FEditComposition.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FEditPerformer.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FNoteEdit.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FormCreateTrack.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FormMain.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FPerformers.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.FSongs.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI_Editor_V2._0.Properties.Resources.resources
+F:\GD\Курсач\AlmostFinal\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI Editor.csproj.GenerateResource.Cache
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\bin\Release\MIDI Editor V2.0.exe.config
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI Editor.csproj.ResolveComReference.cache
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.exe
+F:\Projects\Visual Studio 2012\Projects\MIDI Editor\MIDI Editor V2.0\obj\Release\MIDI Editor V2.0.pdb
