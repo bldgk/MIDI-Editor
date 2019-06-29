@@ -32,4 +32,26 @@
       <d3p1:Name>adsf</d3p1:Name>
     </Value>
   </KeyValueOfguidCompositiontcw4xmnf>
+  <KeyValueOfguidCompositiontcw4xmnf>
+    <Key>58533689-798a-4c0a-b448-7bcd63cc987b</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>58533689-798a-4c0a-b448-7bcd63cc987b</d3p1:ID>
+      <d3p1:Album>fsdfsdfsdf</d3p1:Album>
+      <d3p1:Date>0001-01-01T00:00:00</d3p1:Date>
+      <d3p1:DocName i:nil="true" />
+      <d3p1:Imagename>openFileDialog</d3p1:Imagename>
+      <d3p1:Name>2323</d3p1:Name>
+    </Value>
+  </KeyValueOfguidCompositiontcw4xmnf>
+  <KeyValueOfguidCompositiontcw4xmnf>
+    <Key>6753e774-52d5-4202-8c94-a165d823afbc</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>6753e774-52d5-4202-8c94-a165d823afbc</d3p1:ID>
+      <d3p1:Album>efwefwefwe</d3p1:Album>
+      <d3p1:Date>0001-01-01T00:00:00</d3p1:Date>
+      <d3p1:DocName i:nil="true" />
+      <d3p1:Imagename>openFileDialog</d3p1:Imagename>
+      <d3p1:Name>wefwefwefwewef</d3p1:Name>
+    </Value>
+  </KeyValueOfguidCompositiontcw4xmnf>
 </ArrayOfKeyValueOfguidCompositiontcw4xmnf>

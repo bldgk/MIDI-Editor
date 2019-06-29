@@ -185,3 +185,28 @@ W:\OneDrive\Work\Projects\Visual Studio\CourseWork\1\MIDI Editor\MIDI Editor V2.
 W:\OneDrive\Work\Projects\Visual Studio\CourseWork\1\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
 W:\OneDrive\Work\Projects\Visual Studio\CourseWork\1\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
 W:\OneDrive\Work\Projects\Visual Studio\CourseWork\1\MIDI Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe.config
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.ResolveComReference.cache
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.exe
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor V2.0.pdb
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\bin\Debug\MIDI Data.sdf
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.exe
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\bin\Debug\MIDI Editor V2.0.pdb
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.dll
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\bin\Debug\MIDI Library.pdb
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csprojResolveAssemblyReference.cache
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.DeleteTrack.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAbout.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddComp.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FAddPerformer.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChoicecs.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FChooseComp.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditComposition.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FEditPerformer.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FNoteEdit.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormCreateTrack.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FormMain.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FPerformers.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.FSongs.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI_Editor_V2._0.Properties.Resources.resources
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Editor V2.0\obj\Debug\MIDI Editor.csproj.GenerateResource.Cache

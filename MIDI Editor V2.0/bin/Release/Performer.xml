@@ -17,4 +17,13 @@
       <d3p1:Name>swer</d3p1:Name>
     </Value>
   </KeyValueOfguidPerformertcw4xmnf>
+  <KeyValueOfguidPerformertcw4xmnf>
+    <Key>1b37478f-91e3-4043-a94d-475adc1816d5</Key>
+    <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/MIDI_Library">
+      <d3p1:ID>1b37478f-91e3-4043-a94d-475adc1816d5</d3p1:ID>
+      <d3p1:Date_foundation>2018-12-27T17:18:28.8276314+02:00</d3p1:Date_foundation>
+      <d3p1:ImageName>openFileDialog</d3p1:ImageName>
+      <d3p1:Name>fvfvdfvdfvdf</d3p1:Name>
+    </Value>
+  </KeyValueOfguidPerformertcw4xmnf>
 </ArrayOfKeyValueOfguidPerformertcw4xmnf>

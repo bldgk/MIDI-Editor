@@ -36,3 +36,8 @@ W:\Projects\Visual Studio\MIDI Editor\MIDI Library\bin\Debug\MIDI Library.pdb
 W:\Projects\Visual Studio\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.csprojResolveAssemblyReference.cache
 W:\Projects\Visual Studio\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.dll
 W:\Projects\Visual Studio\MIDI Editor\MIDI Library\obj\Debug\MIDI Library.pdb
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Library\bin\Debug\MIDI Library.dll
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Library\bin\Debug\MIDI Library.pdb
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Library\obj\Debug\MIDI Library.csprojResolveAssemblyReference.cache
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Library\obj\Debug\MIDI Library.dll
+W:\OneDrive\Work\Projects\githubprojects\MIDI Editor\MIDI-Editor\MIDI Library\obj\Debug\MIDI Library.pdb

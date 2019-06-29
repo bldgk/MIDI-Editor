@@ -55,7 +55,7 @@ namespace MIDI_Editor_V2._0
 
         private void FEditPerformer_Load(object sender, EventArgs e)
         {
-            pb_img_performer.Image = Image.FromFile(ImageName);
+          //  pb_img_performer.Image = Image.FromFile(ImageName);
         }
         public string gtemp;
         private void lbl_import_MouseEnter(object sender, EventArgs e)
